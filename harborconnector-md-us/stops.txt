@@ -1,0 +1,6 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
+2751862,MP,,Maritime Park,,39.2790550678983,-76.5958858395262,,http://www.harborconnector.com/,0,,America/New_York,,,0,
+2751863,LP,,Locust Point,,39.2759223488919,-76.5897419100096,,http://www.harborconnector.com/,0,,America/New_York,,,0,
+2751864,CP,,Canton Waterfront Park,,39.2768455432895,-76.5740556363514,,http://www.harborconnector.com/,0,,America/New_York,,,0,
+2751865,PF,,Pier Five,,39.2839428588262,-76.6051524190175,,http://www.harborconnector.com/,0,,America/New_York,,,0,
+2751866,FH,,Federal Hill,,39.2818653467095,-76.6070138686386,,http://www.harborconnector.com/,0,,America/New_York,,,0,

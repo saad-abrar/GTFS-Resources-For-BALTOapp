@@ -1,0 +1,4 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+4458,19563,,,
+4458,19564,,,
+4458,19565,,,

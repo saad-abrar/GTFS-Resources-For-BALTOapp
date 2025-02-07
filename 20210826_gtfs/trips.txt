@@ -1,0 +1,1868 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+117,sat,1,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,2,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,3,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,4,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,5,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,6,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,7,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,8,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,9,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,10,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,11,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,12,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,13,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,14,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,15,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,16,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,17,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sat,18,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,19,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,20,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,21,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,22,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,23,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,24,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,25,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,26,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,27,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,28,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,29,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,30,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,31,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,32,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sat,33,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,34,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,35,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,36,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,37,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,38,Stamp Student Union - Slip (Arrival),0,1175,117_loop_1
+117,sat,39,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+117,sat,40,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+117,sat,41,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+117,sat,42,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+117,sat,43,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+117,sat,44,Stamp Student Union - Slip (Arrival),0,1174,117_loop_1
+109,f,45,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,46,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,47,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,48,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,49,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,50,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,51,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,52,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,53,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,f,54,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,55,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,56,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,57,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,58,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,59,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,60,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,61,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,f,62,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+104,f,63,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,f,64,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,f,65,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,f,66,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+141,f,67,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,f,68,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,f,69,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,f,70,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,f,71,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,f,72,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+113,th,73,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,th,74,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,th,75,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,th,76,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,th,77,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,th,78,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+108,mtw,79,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,80,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,81,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,82,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,83,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,84,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,mtw,85,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+113,th,86,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,th,87,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,th,88,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,th,89,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,th,90,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,th,91,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+108,mtw,92,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,93,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,94,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,95,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,96,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,97,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,mtw,98,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+117,sat,99,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,100,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,101,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,102,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,103,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,104,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,105,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,106,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,107,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,108,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,109,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,110,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,111,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,112,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,113,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sat,114,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+104,sat,115,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,116,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,117,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,118,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,119,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,120,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,121,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sat,122,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+116,sat,123,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,124,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,125,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,126,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,127,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,128,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,129,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,130,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,131,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,132,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,133,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sat,134,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,135,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,136,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,137,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,138,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,139,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,140,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,141,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,142,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,143,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,144,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sat,145,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+104,sat,146,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,147,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,148,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,149,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,150,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,151,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,152,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,153,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,154,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,155,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sat,156,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+116,sat,157,Stamp Student Union - Slip (Arrival),0,1164,116_loop_1
+116,sat,158,Stamp Student Union - Slip (Arrival),0,1164,116_loop_1
+116,sat,159,Stamp Student Union - Slip (Arrival),0,1164,116_loop_1
+104,sat,160,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,161,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,162,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,163,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,164,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,165,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,166,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,167,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sat,168,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+116,sat,169,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,170,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,171,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,172,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,173,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,174,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,175,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,176,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,177,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,178,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,179,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sat,180,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+104,sat,181,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,182,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,183,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,184,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,185,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,186,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,187,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,188,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,189,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,190,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,191,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,192,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,193,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sat,194,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sat,195,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sat,196,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sat,197,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+108,f,198,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,199,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,200,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,201,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,202,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,203,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,f,204,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+116,sat,205,Stamp Student Union - Slip (Arrival),0,1165,116_loop_1
+116,sat,206,Stamp Student Union - Slip (Arrival),0,1165,116_loop_1
+116,sat,207,Stamp Student Union - Slip (Arrival),0,1165,116_loop_1
+116,sat,208,Stamp Student Union - Slip (Arrival),0,1165,116_loop_1
+108,f,209,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,210,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,211,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,212,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,213,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,214,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,f,215,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+141,mtw,216,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,mtw,217,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,mtw,218,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,mtw,219,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,mtw,220,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,mtw,221,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+126,th,222,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,th,223,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,th,224,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,th,225,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,th,226,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,th,227,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,th,228,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,th,229,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+114,th,230,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,231,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,232,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,233,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,234,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,235,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,236,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,237,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,238,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,239,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,240,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,241,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,242,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,th,243,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,244,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,245,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,246,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,247,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,248,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,249,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,250,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,251,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,252,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,253,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,254,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,255,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,th,256,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,257,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,258,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,259,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,260,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,261,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,262,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,263,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,264,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,265,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,266,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,267,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,268,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,th,269,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+126,th,270,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,th,271,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,th,272,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,th,273,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,th,274,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,th,275,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,th,276,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,th,277,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+114,th,278,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,279,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,280,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,281,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,282,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,283,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,284,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,285,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,286,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,287,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,288,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,289,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,290,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,th,291,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+109,mtw,292,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,293,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,294,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,295,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,296,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,297,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,298,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,299,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,300,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,mtw,301,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,302,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,303,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,304,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,305,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,306,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,307,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,308,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,mtw,309,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+104,mtw,310,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,mtw,311,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,mtw,312,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,mtw,313,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+114,th,314,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,315,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,316,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,317,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,318,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,319,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,320,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,321,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,322,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,323,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,324,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,325,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,th,326,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+142,mtw,327,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,mtw,328,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,mtw,329,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,mtw,330,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,331,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,332,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,333,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,334,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,335,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,336,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,mtw,337,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+118,sun,338,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,339,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,340,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,341,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,342,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,343,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,344,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,345,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,346,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sun,347,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+111,th,348,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,th,349,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,th,350,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,th,351,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+118,sun,352,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,353,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,354,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,355,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,356,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,357,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,358,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,359,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,360,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,361,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sun,362,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,363,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,364,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,365,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,366,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,367,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sun,368,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+143,f,369,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,f,370,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,f,371,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,f,372,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,f,373,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,f,374,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+111,th,375,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,th,376,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,th,377,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,th,378,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+118,sat,379,Stamp Student Union - Slip (Arrival),0,1184,118_loop_1
+118,sat,380,Stamp Student Union - Slip (Arrival),0,1184,118_loop_1
+118,sat,381,Stamp Student Union - Slip (Arrival),0,1184,118_loop_1
+118,sat,382,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,383,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,384,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,385,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,386,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,387,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,388,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,389,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,390,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,391,Stamp Student Union - Slip (Arrival),0,1183,118_loop_1
+118,sat,392,Stamp Student Union - Slip (Arrival),0,1185,118_loop_1
+118,sat,393,Stamp Student Union - Slip (Arrival),0,1185,118_loop_1
+118,sat,394,Stamp Student Union - Slip (Arrival),0,1185,118_loop_1
+143,mtw,395,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,mtw,396,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,mtw,397,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+142,f,398,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,f,399,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,f,400,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+143,mtw,401,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,mtw,402,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,mtw,403,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+117,sun,404,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,405,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,406,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,407,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,408,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,409,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,410,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,411,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,412,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,413,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,414,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,415,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,416,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,417,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,418,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,419,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,sun,420,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,421,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,422,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,423,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,424,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,425,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,426,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,427,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,428,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,429,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,430,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,431,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,sun,432,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,433,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,434,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,435,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,436,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,437,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,438,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,439,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,440,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,441,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,442,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,443,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,444,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,445,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,sun,446,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+142,f,447,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,448,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,449,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,450,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,451,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,452,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,453,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,f,454,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+118,sat,455,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,456,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,457,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,458,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,459,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,460,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,461,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,462,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,463,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,464,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,sat,465,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,466,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,467,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,468,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,469,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,470,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,471,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,472,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,473,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,sat,474,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+104,mtw,475,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,476,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,477,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,478,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,479,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,480,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,481,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,482,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,483,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,484,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,485,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,486,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,mtw,487,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+105,th,488,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,489,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,490,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,491,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,492,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,493,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,494,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,th,495,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+117,th,496,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,497,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,498,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,499,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,500,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,501,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,502,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,503,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,504,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,505,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,506,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,507,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,508,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,509,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,th,510,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+104,mtw,511,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,512,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,513,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,514,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,515,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,516,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,517,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,518,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,519,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,520,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,521,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,mtw,522,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+105,th,523,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,524,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,525,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,526,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,527,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,528,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,th,529,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+104,mtw,530,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,531,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,532,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,533,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,534,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,535,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,536,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,537,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,538,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,539,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,540,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,mtw,541,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,542,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,543,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,544,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,545,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,546,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,547,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,548,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,549,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,550,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,551,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,552,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,mtw,553,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+117,th,554,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,555,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,556,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,557,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,558,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,559,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,560,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,561,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,562,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,563,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,564,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,565,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,566,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,567,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,568,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,th,569,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+104,mtw,570,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,571,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,572,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,573,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,574,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,575,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,576,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,577,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,578,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,579,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,580,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,581,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,582,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,mtw,583,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+105,th,584,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,585,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,586,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,587,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,588,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,589,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,th,590,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+116,mtw,591,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,592,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,593,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,594,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,595,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,596,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,597,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,598,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,599,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,600,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,mtw,601,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+105,th,602,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,603,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,604,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,605,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,606,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,607,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,th,608,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+116,mtw,609,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,610,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,611,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,612,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,613,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,614,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,615,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,616,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,617,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,618,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,619,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,mtw,620,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+105,th,621,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,622,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,623,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,624,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,625,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,626,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,627,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,th,628,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,629,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,630,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,631,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,632,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,633,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,th,634,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+132,f,635,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,f,636,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,f,637,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,f,638,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,639,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,640,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,641,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,642,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,643,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,644,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,645,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,646,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,647,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,648,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,f,649,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,650,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,651,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,652,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,653,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,654,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,655,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,656,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,657,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,658,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,659,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,f,660,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,661,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,662,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,663,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,664,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,665,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,666,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,667,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,668,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,669,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,f,670,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+105,mtw,671,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,672,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,673,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,674,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,675,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,676,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,677,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,mtw,678,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,679,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,680,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,681,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,682,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,683,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,684,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,mtw,685,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,686,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,687,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,688,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,689,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,690,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,mtw,691,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+118,th,692,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,693,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,694,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,695,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,696,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,697,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,698,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,699,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,700,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,th,701,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+105,mtw,702,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,703,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,704,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,705,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,706,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,707,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,mtw,708,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+118,th,709,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,710,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,711,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,712,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,713,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,714,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,715,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,716,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,717,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,th,718,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+105,mtw,719,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,720,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,721,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,722,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,723,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,724,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,725,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,mtw,726,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,727,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,728,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,729,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,730,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,731,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,732,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,mtw,733,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+117,mtw,734,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,735,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,736,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,737,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,738,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,739,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,740,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,741,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,742,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,743,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,744,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,745,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,746,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,747,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,748,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,mtw,749,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,750,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,751,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,752,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,753,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,754,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,755,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,756,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,757,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,758,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,759,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,760,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,761,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,762,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,763,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,mtw,764,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+132,f,765,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,766,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,767,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,768,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,769,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,770,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,771,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,772,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,773,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,774,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,775,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,f,776,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,777,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,778,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,779,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,780,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,781,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,782,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,783,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,784,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,785,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,786,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,f,787,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+115,sat,788,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,789,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,790,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,791,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,792,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,793,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,794,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,795,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,796,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,797,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,798,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,799,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,800,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,801,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,802,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,803,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,804,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,805,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sat,806,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,807,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,808,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,809,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,810,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,811,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,812,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,813,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,814,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,815,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,816,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,817,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,818,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,819,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,820,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,821,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,822,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,823,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sat,824,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,825,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,826,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,827,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,828,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,829,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,830,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,831,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,832,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,833,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,834,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,835,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,836,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,837,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,838,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,839,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,840,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,841,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sat,842,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,843,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,844,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,845,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,846,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,847,Stamp Student Union - Slip (Arrival),0,1155,115_loop_1
+115,sat,848,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+115,sat,849,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+115,sat,850,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+115,sat,851,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+115,sat,852,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+115,sat,853,Stamp Student Union - Slip (Arrival),0,1154,115_loop_1
+127,th,854,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,855,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,856,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,857,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,858,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,859,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,860,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,861,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,th,862,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+115,th,863,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,th,864,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,th,865,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,th,866,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,th,867,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,th,868,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+127,th,869,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,870,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,871,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,872,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,873,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,874,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,875,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,876,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,th,877,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+115,th,878,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,879,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,880,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,881,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,882,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,883,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,884,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,885,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,th,886,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+118,mtw,887,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,888,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,889,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,890,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,891,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,892,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,893,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,894,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,895,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,896,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,mtw,897,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,898,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,899,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,900,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,901,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,902,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,903,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,904,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,905,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,mtw,906,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+111,f,907,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,f,908,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,f,909,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,f,910,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,f,911,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,f,912,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,f,913,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,f,914,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+116,th,915,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,916,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,917,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,918,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,919,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,920,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,921,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,922,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,923,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,924,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,925,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,th,926,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+104,th,927,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,928,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,929,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,930,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,931,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,932,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,933,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,934,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,935,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,936,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,937,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,938,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,939,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,th,940,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+116,th,941,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,942,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,943,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,944,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,945,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,946,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,947,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,948,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,949,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,950,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,th,951,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+104,th,952,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,953,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,954,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,955,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,956,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,957,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,958,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,959,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,960,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,961,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,962,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,963,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,th,964,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,965,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,966,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,967,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,968,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,969,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,970,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,971,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,972,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,973,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,974,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,975,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,976,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,th,977,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,978,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,979,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,980,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,981,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,982,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,983,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,984,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,985,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,986,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,987,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,988,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,989,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,th,990,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,991,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,992,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,993,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,994,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,995,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,996,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,997,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,998,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,999,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,th,1000,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+122,f,1001,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1002,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1003,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1004,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1005,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1006,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,f,1007,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,f,1008,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,f,1009,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,f,1010,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+133,sat,1011,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1012,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1013,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1014,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1015,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1016,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1017,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1018,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1019,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1020,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1021,Regents Drive Garage (Arrival),0,1331,133_targ_1
+133,sat,1022,Regents Drive Garage (Arrival),0,1331,133_targ_1
+109,th,1023,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1024,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1025,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1026,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1027,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1028,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1029,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1030,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+109,th,1031,College Park - UMD Metro Station (Hidden Arrival),0,1091,109_loop_1
+104,th,1032,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,th,1033,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,th,1034,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+104,th,1035,Regents Drive Garage - Arrival,0,1091,104_cpmetro_1
+109,th,1036,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1037,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1038,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1039,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1040,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1041,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1042,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1043,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+109,th,1044,College Park - UMD Metro Station (Hidden Arrival),0,1092,109_loop_1
+113,f,1045,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,f,1046,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,f,1047,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,f,1048,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,f,1049,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,f,1050,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+141,th,1051,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,th,1052,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,th,1053,Stamp Student Union - Slip (Arrival),0,1411,141_wdiapknr_1
+141,th,1054,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,th,1055,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+141,th,1056,Stamp Student Union - Slip (Arrival),0,1412,141_wdiapknr_1
+113,f,1057,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,f,1058,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,f,1059,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,f,1060,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,f,1061,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,f,1062,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1063,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1064,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1065,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1066,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1067,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1068,Regents Drive Garage (Arrival),0,1132,113_42ndquee_1
+113,mtw,1069,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,mtw,1070,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,mtw,1071,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,mtw,1072,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,mtw,1073,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+113,mtw,1074,Regents Drive Garage (Arrival),0,1131,113_42ndquee_1
+142,th,1075,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,th,1076,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,th,1077,Regents Drive Garage (Arrival),0,1422,142_brokride_1
+142,th,1078,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1079,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1080,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1081,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1082,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1083,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1084,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+142,th,1085,Regents Drive Garage (Arrival),0,1421,142_brokride_1
+122,sun,1086,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1087,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1088,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1089,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1090,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1091,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1092,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1093,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1094,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sun,1095,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1096,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1097,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1098,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1099,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1100,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1101,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1102,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1103,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1104,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sun,1105,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+114,mtw,1106,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1107,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1108,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1109,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1110,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1111,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1112,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1113,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1114,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1115,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1116,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1117,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1118,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,mtw,1119,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1120,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1121,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1122,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1123,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1124,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1125,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1126,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1127,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1128,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1129,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1130,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1131,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,mtw,1132,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1133,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1134,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1135,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1136,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1137,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1138,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1139,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1140,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1141,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1142,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1143,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1144,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,mtw,1145,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1146,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1147,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1148,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1149,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1150,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1151,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1152,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1153,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1154,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1155,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1156,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1157,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1158,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,mtw,1159,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1160,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1161,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1162,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1163,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1164,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1165,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1166,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1167,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1168,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1169,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1170,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1171,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,mtw,1172,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+126,mtw,1173,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,mtw,1174,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,mtw,1175,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,mtw,1176,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,mtw,1177,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,mtw,1178,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,mtw,1179,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,mtw,1180,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,mtw,1181,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,mtw,1182,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,mtw,1183,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,mtw,1184,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,mtw,1185,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,mtw,1186,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,mtw,1187,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,mtw,1188,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+115,f,1189,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1190,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1191,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1192,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1193,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1194,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1195,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1196,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1197,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,f,1198,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,f,1199,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,f,1200,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,f,1201,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,f,1202,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,f,1203,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+127,f,1204,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1205,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1206,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1207,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1208,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1209,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1210,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1211,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1212,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,f,1213,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1214,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1215,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1216,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1217,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1218,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1219,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1220,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,f,1221,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+122,sun,1222,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1223,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1224,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1225,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1226,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1227,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1228,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1229,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1230,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1231,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1232,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sun,1233,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1234,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1235,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1236,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1237,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1238,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1239,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1240,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1241,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1242,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1243,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1244,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1245,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,sat,1246,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1247,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1248,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1249,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1250,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1251,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1252,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1253,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1254,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1255,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1256,Stamp Student Union - Slip (Arrival),0,1223,122_loop_1
+122,sat,1257,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1258,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1259,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1260,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1261,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1262,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1263,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1264,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1265,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1266,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1267,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,sat,1268,Stamp Student Union - Slip (Arrival),0,1225,122_loop_1
+122,sat,1269,Stamp Student Union - Slip (Arrival),0,1225,122_loop_1
+122,sat,1270,Stamp Student Union - Slip (Arrival),0,1225,122_loop_1
+122,sat,1271,Stamp Student Union - Slip (Arrival),0,1224,122_loop_1
+122,sat,1272,Stamp Student Union - Slip (Arrival),0,1224,122_loop_1
+122,sat,1273,Stamp Student Union - Slip (Arrival),0,1224,122_loop_1
+122,sat,1274,Stamp Student Union - Slip (Arrival),0,1224,122_loop_1
+108,th,1275,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1276,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1277,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1278,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1279,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1280,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1281,Regents Drive Garage (Arrival),0,1081,108_chateau_1
+108,th,1282,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1283,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1284,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1285,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1286,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1287,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+108,th,1288,Regents Drive Garage (Arrival),0,1082,108_chateau_1
+115,mtw,1289,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1290,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1291,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1292,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1293,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1294,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1295,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1296,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,mtw,1297,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+114,f,1298,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1299,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1300,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1301,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1302,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1303,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1304,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1305,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1306,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1307,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1308,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1309,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1310,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+114,f,1311,Stamp Student Union - Slip (Arrival),0,1142,114_loop_1
+115,mtw,1312,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,mtw,1313,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,mtw,1314,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,mtw,1315,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,mtw,1316,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,mtw,1317,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+127,mtw,1318,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1319,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1320,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1321,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1322,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1323,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1324,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1325,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+127,mtw,1326,Regents Drive Garage (Arrival),0,1272,127_mazz_1
+114,f,1327,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1328,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1329,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1330,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1331,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1332,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1333,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1334,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1335,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1336,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1337,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1338,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1339,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+114,f,1340,Stamp Student Union - Slip (Arrival),0,1141,114_loop_1
+126,f,1341,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,f,1342,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,f,1343,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,f,1344,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,f,1345,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,f,1346,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+126,f,1347,New Carrollton Metro Station,0,1262,126_ncarmetr_1
+126,f,1348,Stamp Student Union - Slip (Arrival),0,1262,126_stamsu_1
+127,mtw,1349,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1350,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1351,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1352,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1353,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1354,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1355,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1356,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+127,mtw,1357,Regents Drive Garage (Arrival),0,1271,127_mazz_1
+126,f,1358,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,f,1359,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,f,1360,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,f,1361,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,f,1362,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,f,1363,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+126,f,1364,New Carrollton Metro Station,0,1261,126_ncarmetr_1
+126,f,1365,Stamp Student Union - Slip (Arrival),0,1261,126_stamsu_1
+114,f,1366,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1367,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1368,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1369,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1370,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1371,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1372,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1373,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1374,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1375,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1376,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1377,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1378,Stamp Student Union - Slip (Arrival),0,1145,114_loop_1
+114,f,1379,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1380,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1381,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1382,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1383,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1384,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1385,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1386,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1387,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1388,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1389,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1390,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1391,Stamp Student Union - Slip (Arrival),0,1144,114_loop_1
+114,f,1392,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1393,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1394,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1395,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1396,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1397,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1398,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1399,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1400,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1401,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1402,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1403,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+114,f,1404,Stamp Student Union - Slip (Arrival),0,1143,114_loop_1
+117,f,1405,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1406,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1407,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1408,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1409,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1410,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1411,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1412,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1413,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1414,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1415,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1416,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1417,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1418,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1419,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+117,f,1420,Stamp Student Union - Slip (Arrival),0,1171,117_loop_1
+132,mtw,1421,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,mtw,1422,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,mtw,1423,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,mtw,1424,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1425,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1426,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1427,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1428,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1429,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1430,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1431,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1432,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1433,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1434,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,mtw,1435,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1436,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1437,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1438,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1439,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1440,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1441,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1442,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1443,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1444,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1445,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,mtw,1446,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1447,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1448,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1449,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1450,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1451,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1452,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1453,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1454,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1455,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1456,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,mtw,1457,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1458,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1459,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1460,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1461,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1462,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1463,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1464,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1465,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1466,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1467,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,mtw,1468,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1469,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1470,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1471,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1472,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1473,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1474,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1475,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1476,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1477,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1478,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,mtw,1479,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+105,f,1480,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1481,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1482,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1483,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1484,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1485,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1486,Stamp Student Union - Slip (Arrival),0,1054,105_guilrowa_1
+105,f,1487,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1488,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1489,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1490,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1491,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1492,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+105,f,1493,Stamp Student Union - Slip (Arrival),0,1053,105_guilrowa_1
+104,sun,1494,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1495,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1496,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1497,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1498,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1499,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1500,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,sun,1501,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+105,f,1502,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1503,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1504,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1505,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1506,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1507,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+105,f,1508,Stamp Student Union - Slip (Arrival),0,1052,105_guilrowa_1
+116,sun,1509,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1510,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1511,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1512,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1513,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1514,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1515,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1516,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1517,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1518,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,sun,1519,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+117,f,1520,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,f,1521,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,f,1522,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,f,1523,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,f,1524,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+117,f,1525,Stamp Student Union - Slip (Arrival),0,1173,117_loop_1
+105,f,1526,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1527,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1528,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1529,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1530,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1531,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1532,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+105,f,1533,Stamp Student Union - Slip (Arrival),0,1051,105_guilrowa_1
+116,sun,1534,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1535,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1536,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1537,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1538,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1539,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1540,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1541,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1542,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1543,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1544,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,sun,1545,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+117,f,1546,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1547,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1548,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1549,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1550,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1551,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1552,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1553,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1554,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1555,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1556,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1557,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1558,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1559,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+117,f,1560,Stamp Student Union - Slip (Arrival),0,1172,117_loop_1
+104,sun,1561,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1562,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1563,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1564,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1565,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1566,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1567,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1568,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1569,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1570,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1571,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,sun,1572,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1573,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1574,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1575,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1576,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1577,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1578,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1579,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,sun,1580,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+116,sun,1581,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1582,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1583,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1584,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1585,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1586,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1587,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1588,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+116,sun,1589,Stamp Student Union - Slip (Arrival),0,1163,116_loop_1
+104,sun,1590,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1591,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1592,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1593,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1594,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1595,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1596,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1597,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1598,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1599,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1600,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1601,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,sun,1602,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+105,f,1603,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1604,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1605,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1606,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1607,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1608,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+105,f,1609,Stamp Student Union - Slip (Arrival),0,1056,105_guilrowa_1
+104,sun,1610,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sun,1611,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sun,1612,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,sun,1613,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+105,f,1614,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1615,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1616,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1617,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1618,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1619,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+105,f,1620,Stamp Student Union - Slip (Arrival),0,1055,105_guilrowa_1
+104,f,1621,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1622,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1623,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1624,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1625,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1626,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1627,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1628,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1629,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1630,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1631,Regents Drive Garage - Arrival,0,1043,104_cpmetro_1
+104,f,1632,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1633,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1634,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1635,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1636,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1637,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1638,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1639,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1640,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1641,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1642,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1643,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+104,f,1644,Regents Drive Garage - Arrival,0,1042,104_cpmetro_1
+122,th,1645,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,th,1646,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,th,1647,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,th,1648,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+104,f,1649,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1650,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1651,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1652,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1653,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1654,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1655,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1656,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1657,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1658,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1659,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1660,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1661,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+104,f,1662,Regents Drive Garage - Arrival,0,1041,104_cpmetro_1
+115,sun,1663,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1664,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1665,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1666,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1667,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1668,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1669,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1670,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1671,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1672,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1673,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1674,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1675,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1676,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1677,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1678,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1679,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+115,sun,1680,Stamp Student Union - Slip (Arrival),0,1151,115_loop_1
+116,f,1681,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1682,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1683,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1684,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1685,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1686,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1687,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1688,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1689,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1690,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1691,Stamp Student Union - Slip (Arrival),0,1162,116_loop_1
+116,f,1692,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1693,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1694,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1695,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1696,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1697,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1698,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1699,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1700,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1701,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1702,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+116,f,1703,Stamp Student Union - Slip (Arrival),0,1161,116_loop_1
+115,sun,1704,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1705,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1706,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1707,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1708,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1709,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1710,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1711,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1712,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1713,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1714,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1715,Stamp Student Union - Slip (Arrival),0,1153,115_loop_1
+115,sun,1716,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1717,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1718,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1719,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1720,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1721,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1722,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1723,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1724,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1725,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1726,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1727,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1728,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1729,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1730,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1731,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1732,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+115,sun,1733,Stamp Student Union - Slip (Arrival),0,1152,115_loop_1
+104,f,1734,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1735,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1736,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1737,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1738,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1739,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1740,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1741,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1742,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1743,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1744,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1745,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+104,f,1746,Regents Drive Garage - Arrival,0,1045,104_cpmetro_1
+122,th,1747,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,th,1748,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,th,1749,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,th,1750,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,th,1751,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,th,1752,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+104,f,1753,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1754,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1755,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1756,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1757,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1758,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1759,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1760,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1761,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1762,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1763,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+104,f,1764,Regents Drive Garage - Arrival,0,1044,104_cpmetro_1
+122,mtw,1765,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1766,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1767,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1768,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1769,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1770,Stamp Student Union - Slip (Arrival),0,1222,122_loop_1
+122,mtw,1771,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,mtw,1772,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,mtw,1773,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+122,mtw,1774,Stamp Student Union - Slip (Arrival),0,1221,122_loop_1
+143,th,1775,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,th,1776,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,th,1777,Regents Drive Garage (Arrival),0,1431,143_greegree_ob_1
+143,th,1778,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,th,1779,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+143,th,1780,Regents Drive Garage (Arrival),0,1432,143_greegree_ob_1
+132,th,1781,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1782,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1783,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1784,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1785,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1786,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1787,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1788,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1789,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1790,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1791,Stamp Student Union - Slip (Arrival),0,1325,132_loop_1
+132,th,1792,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,th,1793,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+132,th,1794,Stamp Student Union - Slip (Arrival),0,1326,132_loop_1
+118,f,1795,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1796,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1797,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1798,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1799,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1800,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1801,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1802,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1803,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1804,Stamp Student Union - Slip (Arrival),0,1182,118_loop_1
+118,f,1805,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1806,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1807,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1808,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1809,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1810,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1811,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1812,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1813,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+118,f,1814,Stamp Student Union - Slip (Arrival),0,1181,118_loop_1
+111,mtw,1815,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,mtw,1816,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,mtw,1817,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,mtw,1818,Stamp Student Union - Slip (Arrival),0,1112,111_ssmetro_1
+111,mtw,1819,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,mtw,1820,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,mtw,1821,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+111,mtw,1822,Stamp Student Union - Slip (Arrival),0,1111,111_ssmetro_1
+132,th,1823,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1824,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1825,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1826,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1827,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1828,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1829,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1830,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1831,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1832,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1833,Stamp Student Union - Slip (Arrival),0,1323,132_loop_1
+132,th,1834,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1835,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1836,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1837,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1838,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1839,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1840,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1841,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1842,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1843,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1844,Stamp Student Union - Slip (Arrival),0,1324,132_loop_1
+132,th,1845,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1846,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1847,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1848,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1849,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1850,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1851,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1852,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1853,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1854,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1855,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1856,Stamp Student Union - Slip (Arrival),0,1321,132_loop_1
+132,th,1857,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1858,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1859,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1860,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1861,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1862,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1863,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1864,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1865,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1866,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1
+132,th,1867,Stamp Student Union - Slip (Arrival),0,1322,132_loop_1

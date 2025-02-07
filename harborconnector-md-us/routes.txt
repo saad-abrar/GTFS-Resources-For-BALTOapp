@@ -1,0 +1,4 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+1806,19563,HC1,Maritime Park – Locust Point,,4,,02a0de,000000,0,15,0,1,1,,
+1806,19564,HC2,Canton Park – Locust Point,,4,,02a0de,000000,1,30,0,1,1,,
+1806,19565,HC3,Federal Hill – Pier 5,,4,,02a0de,000000,2,15,0,1,1,,

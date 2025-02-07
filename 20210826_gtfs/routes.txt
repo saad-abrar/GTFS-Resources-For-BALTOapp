@@ -1,0 +1,20 @@
+route_id,route_short_name,route_long_name,route_type,route_color
+104,104 College Park Metro,104 College Park Metro,3,0xCD0000
+105,105 Campus Connector,105 Campus Connector,3,0xDA70D6
+108,108 Adelphi,108 Adelphi,3,0x8B668B
+109,109 River Road,109 River Road,3,0x068481
+111,111 Silver Spring,111 Silver Spring,3,0x5D92B1
+113,113 Hyattsville,113 Hyattsville,3,0xCD3278
+114,114 University View,114 University View,3,0xFF9912
+115,115 Orange,115 Orange,3,0xFF9912
+116,116 Purple,116 Purple,3,0x9932CC
+117,117 Blue,117 Blue,3,0x3299CC
+118,118 Gold,118 Gold,3,0xFFE600
+122,122 Green,122 Green,3,0x00CD66
+126,126 New Carrolton,126 New Carrolton,3,0x0147FA
+127,127 Mazza GrandMarc,127 Mazza GrandMarc,3,0xC73F17
+132,132 The Varsity,132 The Varsity,3,0xFFE600
+133,133 Grocery Shopping Shuttle,133 Grocery Shopping Shuttle,3,0xBF3EFF
+141,141 Gaithersburg Park & Ride,141 Gaithersburg Park & Ride,3,0xF54D70
+142,142 Columbia Park & Ride,142 Columbia Park & Ride,3,0xFFE600
+143,143 Greenbelt,143 Greenbelt,3,0x78AB46

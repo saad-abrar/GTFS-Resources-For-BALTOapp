@@ -1,0 +1,3 @@
+service_id,date,holiday_name,exception_type
+c_23874_b_33137_d_63,20220905,Labor Day,2
+c_23874_b_33137_d_63,20220704,Independence Day,2

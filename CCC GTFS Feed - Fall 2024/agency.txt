@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_email,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+3554,Charm City Circulator (Baltimore City),,https://transportation.baltimorecity.gov/charm-city-circulator,America/New_York,en,(410) 396-9596,

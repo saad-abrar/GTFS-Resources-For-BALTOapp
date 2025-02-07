@@ -1,0 +1,344 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon
+stamsu_d,10001,Stamp Student Union - Slip,,38.98761,-76.94394
+wdiapknr_d,34778,West Diamond Ave Park & Ride Lot,,39.14111,-77.21163
+stamsu_a,10001,Stamp Student Union - Slip (Arrival),,38.98756,-76.94321
+regegara_d,10003,Regents Drive Garage,,38.98952,-76.94075
+brokride,50040,Broken Land Park & Ride East Lot,,39.17423,-76.84947
+regegara_a,10003,Regents Drive Garage (Arrival),,38.98979,-76.94075
+stamsuhh_d,10002,Stamp Student Union - Slip,,38.98745,-76.94404
+artsoci,27719,Art/Sociology Building,,38.98529,-76.94677
+wico,30089,Wicomico Hall,,38.98375,-76.94516
+lotu4,50002,Preinkert Drive at Lot MV,,38.98219,-76.94488
+collpksh,30138,College Park Shopping Ctr (Outbound),,38.98096,-76.93903
+baltritc,27291,Ritchie Coliseum,,38.98528,-76.9371
+univclub,31765,University Club Apartments,,38.99065,-76.92981
+baltvars,29789,Baltimore Ave at The Varsity,,38.99082,-76.93401
+mcirc,36288,Campus Dr at M Circle,,38.9877,-76.9395
+stamsuhh_a,10002,Stamp Student Union - Slip (Arrival),,38.98756,-76.94321
+lot1,36495,Union Dr at Lot 1b,,38.98721,-76.94816
+cspac,36261,Valley Drive at Stadium Drive Garage,,38.99024,-76.9494
+dent_e,36424,Denton Hall,,38.99194,-76.95009
+greeseve_ob,37094,Greenbelt Rd at Severn Building (Outbound),,38.99809,-76.92445
+greestat_ob,37400,Greenbelt Road and Greenbelt Station Parkway (Outbound),,38.99804,-76.91837
+gree60th_ob,27579,Greenbelt Rd and 60th Ave,,38.99795,-76.91268
+60thgree_ob,37153,60th Ave and Greenbelt Rd (Outbound),,38.99732,-76.91199
+60thruat_ob,37002,60th Ave and Ruatan St (Outbound),,38.99479,-76.91152
+cunnpont,37032,Cunningham Dr and Pontiac St,,38.99237,-76.91305
+pont63rd_ob,37076,Pontiac St and 63rd Ave (Outbound),,38.99107,-76.90803
+westpark_ob,30091,Westchester Park Circle,,38.99,-76.90431
+ridgivy_ob,48036,Ridge Road and Ivy Lane,,39.00764,-76.89078
+ivylast_ob,48037,Ivy Lane and Lastner Lane,,39.00741,-76.88894
+lastjuli_ob,48038,Lastner Lane and Julian Court (Outbound),,39.009,-76.88557
+ridgrese_ob,48039,Ridge Road and Research Road (Outbound),,39.0113,-76.87843
+ridgplat_ob,48040,Ridge Road and Plateau Place (Outbound),,39.00909,-76.87341
+ridgeast_ob,48041,Ridge Road and Eastway (Outbound),,39.00507,-76.87298
+ridggard_ob,48042,Ridge Road and Gardenway (Outbound),,39.00081,-76.87292
+ridggrid,48043,Ridge Road at Green Ridge House Apartments,,38.99921,-76.87483
+westridg_ob,48044,Westway and Ridge Road (Outbound),,38.99947,-76.88219
+lakewest_ob,48045,Lakeside Drive and Westway (Outbound),,38.99852,-76.88506
+lakegree_ob,48046,Lakecrest Drive and Greenbelt Road (Outbound),,38.99604,-76.88676
+greelake_ob,34818,Greenbelt Rd and Lakecrest Dr,,38.99558,-76.8864
+greegree_ob,34389,Greenbelt Rd at Greenway Center (Outbound),,38.99398,-76.87751
+oraghano_ob,30977,Ora Glen Dr and Hanover Pkwy,,38.99108,-76.87572
+oraggree_ob,30345,Ora Glen Dr and Greenbrook Dr,,38.99024,-76.87071
+oragmorr,55002,Ora Glen Drive and Morrison Drive,,38.98921,-76.86729
+mandcann_ob,30931,Mandan Rd and Canning Terr,,38.99044,-76.8644
+mandgoak_d,30912,Mandan Rd at Glen Oaks Apartments,,38.99267,-76.86428
+mandhano_ib,27828,Mandan Rd and Hanover Pkwy,,38.9979,-76.86546
+hanoelea_ib,27837,Hanover Pkwy at Eleanor Roosevelt High School,,38.99656,-76.87054
+hanogree_ib,27081,Hanover Pkwy and Greenbelt Rd,,38.99484,-76.87402
+greegreei_ib,34388,Greenbelt Rd at Greenway Center (Inbound),,38.99423,-76.877
+lakegree_ib,48047,Lakecrest Drive and Greenbelt Road (Inbound),,38.9961,-76.88664
+lakelake_ib,27184,Lakecrest Dr and Lakeside Dr,,38.9978,-76.88609
+lakewest_ib,27178,Lakeside Dr and Westway (Inbound),,38.99861,-76.88488
+westridg_ib,30062,Westway and Ridge Rd (Inbound),,38.99953,-76.88198
+ridgsout_ib,27386,Ridge Rd and Southway,,38.99863,-76.87677
+ridggard_ib,27902,Ridge Rd and Gardenway (Inbound),,39.00062,-76.87294
+ridgeast_ib,27925,Ridge Rd and Eastway (Inbound),,39.0049,-76.87278
+ridgplat_ib,27994,Ridge Rd and Plateau Pl (Inbound),,39.00924,-76.8733
+ridgrese_ib,27329,Ridge Rd and Research Rd (Inbound),,39.01137,-76.87802
+lastjuli_ib,27150,Lastner Ln and Julian Ct (Inbound),,39.00909,-76.88533
+lastivy_ib,27166,Lastner Ln and Ivy Ln,,39.00751,-76.88873
+ivyridg_ib,27052,Ivy Ln and Ridge Rd,,39.00775,-76.89063
+westpark_ib,30091,Westchester Park Circle,,38.99,-76.90431
+pont63rd_ib,37075,Pontiac St and 63rd Ave (Inbound),,38.99105,-76.9077
+pontcunn_ib,37077,Pontiac St and Cunningham Dr,,38.99226,-76.91292
+ruat60th_ib,37003,60th Ave and Ruatan St (Inbound),,38.99462,-76.9114
+gree60th_ib,37001,60th Ave and Greenbelt Rd (Inbound),,38.99727,-76.91191
+greestat_ib,37401,Greenbelt Road and Greenbelt Station Parkway (Inbound),,38.99815,-76.9184
+greerhod_ib,37095,Greenbelt Rd at Severn Building (Inbound),,38.99821,-76.92544
+cspa_main,36411,Stadium Drive and University Boulevard,,38.99179,-76.95022
+stadgara,37091,Stadium Drive Garage,,38.99183,-76.94767
+stadvtho,37092,Varsity Team House,,38.9906,-76.94542
+stadatl,55005,Stadium Drive at Atlantic Building,,38.99056,-76.94212
+camplt1d,34422,Campus Dr at Lot 3,,38.98474,-76.95154
+univtula,37148,University Blvd and Tulane Dr,,38.9854,-76.9588
+univshop_out,27790,University Blvd at Adelphi Plaza,,38.98464,-76.9671
+univguil_out,30172,University Blvd at Campus Gardens,,38.98408,-76.97307
+univrigg_out,37093,University Blvd and Riggs Rd (Outbound),,38.98455,-76.98036
+univ14th,55010,University Blvd and 14th Ave,,38.98714,-76.98465
+univrite,34134,Takoma-Langley Crossroads Transit Center (Outbound),,38.98984,-76.98859
+merrilock,37066,Merrimac Dr and Lockney Ave,,38.99242,-76.99214
+carrchest,37026,Carroll Ave and Chester St,,38.98993,-76.99356
+carrglen,37029,Carroll Ave and Glenside Dr,,38.98796,-76.99438
+carrgarl,37027,Caroll Ave and Garland Ave (Outbound),,38.98622,-76.99632
+flowcarr,37040,Flower Ave and Carroll Ave (Outbound),,38.98531,-76.99885
+flowdivi,37042,Flower Ave at Washington Adventist University (Outbound),,38.98676,-76.99985
+flowkenne,37048,Flower Ave and Kennebec Ave (Outbound),,38.98958,-77.00137
+flowhuds,37046,Flower Ave and Hudson (Outbound),,38.99246,-77.00218
+flowdome,37044,Flower Ave and Domer Ave (Outbound),,38.99667,-77.00316
+flowplym,34771,Flower Ave and Plymouth St,,39.00156,-77.00454
+waynslig_out,30101,Wayne Ave and Sligo Creek Pkwy (Outbound),,38.99966,-77.01042
+wayndale_out,31540,Wayne Ave and Dale Dr (Outbound),,38.99938,-77.01728
+waynwhol,31868,Wayne Ave and Fenton St (Outbound),,38.99597,-77.02355
+ssmetro,50034,Silver Spring Metro Station,,38.99359,-77.02973
+waynfent,31754,Wayne Ave and Fenton St (Inbound),,38.99523,-77.02459
+wayndale_in,31847,Wayne Ave and Dale Dr (Inbound),,38.99924,-77.01775
+waynslig_in,55011,Wayne Ave and Manchester Place,,39.00164,-77.00772
+flowplym_in,37050,Flower Ave and Plymouth St (Inbound),,39.00157,-77.00466
+flowdome_in,37045,Flower Ave and Domer Ave (Inbound),,38.99626,-77.00315
+flowhuds_in,37047,Flower Ave and Hudson (Inbound),,38.99255,-77.00228
+flowkenn_in,37049,Flower Ave and Kennebec (Inbound),,38.98971,-77.00155
+flowdivi_inn,37043,Flower Ave at Washington Adventist University (Inbound),,38.98705,-77.00019
+flowcarr_in,37041,Flower Ave and Carroll Ave (Inbound),,38.98521,-76.99892
+carrgarl_in,37028,Carroll Ave and Garland Ave (Inbound),,38.98624,-76.99618
+carranne_in,37025,Carroll Ave and Anne St,,38.98764,-76.99461
+carrwild_in,37030,Carroll Ave and Wildwood Dr,,38.98973,-76.99351
+merriuniv,37067,Merrimac Dr and University Blvd,,38.99249,-76.99173
+univhamp,30234,Takoma-Langley Crossroads Transit Center (Inbound),,38.99005,-76.98817
+univ15th,27393,University Blvd and 15th Ave,,38.98525,-76.98189
+univhech,55008,University Blvd and Riggs Road (Inbound),,38.98347,-76.97768
+univ25th_in,27788,University Blvd and 25th Ave,,38.98443,-76.96741
+univgrad,34110,University Blvd at Graduate Hills,,38.98536,-76.95787
+laplat_out,48070,La Plata Hall (Outbound),,38.99287,-76.9456
+hage_out,48071,Hagerstown Hall (Outbound),,38.99301,-76.9477
+elkton_out,48072,Elkton Hall (Outbound),,38.9925,-76.94863
+vallstad,48073,Valley Drive at Stadium Drive Garage (Outbound),,38.99023,-76.94946
+benj,48074,Benjamin Building,,38.98718,-76.9471
+guilrowa,50003,Guilford Drive and Rowalt Drive (Outbound),,38.97821,-76.9395
+univpkth,37096,Baltimore Ave at University Park Town Hall,,38.9725,-76.93802
+baltrive_out,48067,Baltimore Avenue at Riverdale Park Station (Outbound),,38.96992,-76.93837
+baltunde,37024,Baltimore Ave and Underwood St,,38.96861,-76.93857
+amersafe,48061,America Boulevard at Safeway,,38.9674,-76.95221
+amerregal,48062,America Boulevard at Regal Cinemas Hyattsville,,38.96892,-76.95207
+tolebelc,37240,Toledo and Belcrest Rd (Outbound),,38.96991,-76.95328
+targ,30537,The Mall at Prince George's,,38.96821,-76.95417
+baltsher,37023,Baltimore Ave and Sheridan St,,38.96573,-76.93882
+ngarmo,37069,Baltimore Ave at National Guard Armory,,38.96831,-76.93846
+baltrive_in,48068,Baltimore Avenue at Riverdale Park Station (Inbound),,38.9697,-76.93827
+baltamhe,37014,Baltimore Ave and Amherst Rd,,38.97285,-76.93786
+guilrowa_in,37103,Guilford Drive and Rowalt Drive (Inbound),,38.97816,-76.93908
+sccomm5_6,34728,South Campus Commons 5 and 6,,38.98232,-76.94484
+lota,36430,Preinkert Drive at Lot A,,38.98425,-76.94519
+somehall,27412,Somerset Hall,,38.98475,-76.94582
+annearun,27941,Anne Arundel Hall,,38.98594,-76.94695
+dorchall,48075,Dorchester Hall,,38.98697,-76.94654
+elk,27227,Elkton Hall,,38.99248,-76.94858
+hage_in,27514,Hagerstown Hall (Inbound),,38.99297,-76.9476
+laplat_in,27197,La Plata Hall (Inbound),,38.99222,-76.94563
+varhous,37092,Varsity Team House,,38.9906,-76.94544
+stamsu_m,10001,Stamp Student Union - Slip,,38.98761,-76.94394
+knoxyale,50013,Knox Road and Yale Avenue,,38.98061,-76.93686
+prinknox,34238,Knox Rd and Princeton Ave,,38.98026,-76.93533
+hopkknox,34217,Knox Rd and Hopkins Ave,,38.97992,-76.93384
+knoxrhod,34970,Knox Rd and Rhode Island Ave,,38.97962,-76.93242
+rhodcoll,34873,Rhode Island Ave & College Ave,,38.98072,-76.93187
+rhodnorw_s,37126,Rhode Island Ave and Norwich Rd,,38.9819,-76.9314
+rossrhod,50011,Rossborough Ln and Rhode Island Ave,,38.9834,-76.93131
+5frat,27726,Fraternity Row #5,,38.9848,-76.93427
+leoncomm_out,27364,Leonardtown Community Center,,38.98371,-76.9338
+11frat,27682,Fraternity Row #11,,38.98302,-76.93549
+yalecoll,36257,Yale Ave and Lehigh Rd,,38.98151,-76.93641
+collpksh_ib,50014,College Park Shopping Center (Inbound),,38.98101,-76.93895
+scam34,50015,South Campus Commons 3 and 4,,38.98114,-76.94082
+hage,27514,Hagerstown Hall,,38.99297,-76.94756
+laplat,27197,La Plata Hall,,38.99219,-76.94563
+gradhill,27580,Adelphi Rd at Graduate Hills Apts,,38.98466,-76.95554
+adelwell_out,27859,Adelphi Rd and Wells Blvd,,38.97954,-76.95459
+adel_nwhs,36152,Adelphi Rd at Northwestern HS,,38.9755,-76.9521
+toleadel,27987,Toledo Rd and Adelphi Rd,,38.97007,-76.9498
+pgmetro_out,37323,Prince George's Plaza Metro Station (Outbound),,38.96588,-76.95413
+39thquee,37211,Queensbury Rd and 39th Pl,,38.96391,-76.95037
+42ndquee,37212,42nd Ave and Queensbury Rd,,38.96356,-76.94626
+42ndogle,37213,42nd Ave and Oglethorpe St,,38.95967,-76.94654
+42ndmadi,37214,42nd Ave and Madison St,,38.95801,-76.94676
+42ndjeff,37215,42nd Ave and Jefferson St,,38.95539,-76.94578
+42ndfarr,37216,Farragut St and 42nd Pl,,38.95175,-76.94436
+farrrhod,37217,Farragut St and Rhode Island Ave,,38.95166,-76.94123
+baltgall,37179,Baltimore Ave and Gallatin St,,38.95307,-76.94046
+balthami,37171,Baltimore Ave and Hamilton St,,38.95428,-76.94032
+baltlong,37172,Baltimore Ave and Longfellow St,,38.95672,-76.94004
+baltogle,37173,Baltimore Ave and Oglethorpe St,,38.95939,-76.93976
+44thquee,37218,Queensbury Rd and 44th Pl,,38.96326,-76.94045
+quee42nd,37219,Queensbury Rd and 42nd Pl,,38.96377,-76.94506
+belcquch,37220,Belcrest Rd and Queens Chapel Rd,,38.96437,-76.9527
+pgmetro_in,30559,Prince George's Plaza Metro Station (Inbound),,38.96544,-76.95378
+pgcc,37221,Prince George's Community College,,38.96815,-76.95394
+belctole,37186,Toledo Rd and Belcrest Rd (Inbound),,38.96984,-76.9532
+adeltole,37008,Adelphi Rd and Toledo Rd,,38.97063,-76.94903
+adelvbur,36153,Adelphi Rd and Van Buren St,,38.97528,-76.95176
+adelwell_in,27871,Adelphi Rd and Wells Pkwy (Inbound),,38.97923,-76.95431
+adeltula,37191,Adelphi Rd and Campus Dr,,38.98463,-76.95534
+guilknox,27611,Mowatt Lane and Knox Rd,,38.98113,-76.94453
+rossknox_d,50010,Knox Rd and Rossburg Dr,,38.98112,-76.94214
+collpktw,27109,College Park Towers,,38.98108,-76.94101
+univview,37105,University View,,38.99234,-76.9339
+cole,36337,Cole Field House,,38.9872,-76.94698
+mitc_out,30487,Mitchell Building (Outbound),,38.98665,-76.9402
+memo_out,30043,Memorial Chapel (Outbound),,38.98482,-76.94015
+mont_out,30456,Montgomery Hall (Outbound),,38.98243,-76.93915
+baltritc_s,27291,Ritchie Coliseum,,38.98528,-76.9371
+mcirc_s,36288,Campus Dr at M Circle,,38.9877,-76.93949
+regdrgar_d,10003,Regents Drive Garage,,38.98952,-76.94077
+collprin_ob,55022,College Ave & Princeton Ave (Outbound),,38.98141,-76.93486
+collhopk_ob,55023,College Ave & Hopkins Ave (Outbound),,38.98109,-76.9334
+collrhod_ob,55024,College Ave & Rhode Island Ave (Outbound),,38.98079,-76.93201
+rhodknox_ob,55025,Rhode Island Ave & Knox Rd (Outbound),,38.97969,-76.93232
+cpmcalv,55020,College Park Metro - UMD at Calvert Rd,,38.97862,-76.92889
+rhodknox_ib,55028,Rhode Island Ave & Knox Rd (Inbound),,38.97964,-76.9322
+collrhod_ib,34873,College Ave & Rhode Island Ave (Inbound),,38.98071,-76.9318
+collhopk_ib,55029,College Ave & Hopkins Ave (Inbound),,38.98111,-76.9332
+collprin_ib,55030,College Ave & Princeton Ave (Inbound),,38.98146,-76.93469
+mont_in,30473,Montgomery Hall (Inbound),,38.9825,-76.93913
+memo_in,30027,Memorial Chapel (Inbound),,38.98454,-76.94007
+mitc_in,30494,Mitchell Building (Inbound),,38.98637,-76.94012
+campmath,36112,Campus Dr at Math Slip,,38.98786,-76.93861
+painglen,30500,Glenn L. Martin Wind Tunnel,,38.98995,-76.93725
+regdrgar_a,,Regents Drive Garage - Arrival,,38.98983,-76.94077
+ewhwbeal,37038,East-West Hwy and W Beale Cir,,38.96412,-76.9379
+ewhwtayl_out,37037,East-West Hwy and Taylor Rd (Outbound),,38.96232,-76.92946
+rivstber_n,37035,Riverdale Rd at St. Bernard's Church,,38.95995,-76.91565
+rivd63rd,48083,Riverdale Rd and 63rd Ave,,38.96097,-76.9101
+riveeast,37085,Riverdale Rd and Eastpine Dr,,38.96105,-76.90679
+rive67th,37082,Riverdale Rd and 67th Ave,,38.96133,-76.90285
+riveaubu,37084,Riverdale Rd and Auburn Ave,,38.96428,-76.89711
+rivemart,37089,Riverdale Rd and Martins Ln,,38.96343,-76.88936
+rivefinn,37086,Riverdale Rd and Finns Ln,,38.96209,-76.88675
+rivelamo,37087,Riverdale Rd and Lamont Dr,,38.96137,-76.88266
+founclap,37051,Riverdale Rd at Fountain Club Apartments,,38.96003,-76.87958
+rivemaho,37088,Riverdale Rd and Mahoney Dr,,38.95959,-76.87766
+herisqap,37058,Riverdale Rd at Heritage Square Apartments,,38.95852,-76.87522
+annarive,37010,Annapolis Rd and Riverdale Rd,,38.95548,-76.87359
+harkanna,48081,Harkins Rd and Annapolis Rd,,38.95235,-76.87764
+ncarmetr,37071,New Carrollton Metro Station,,38.95052,-76.87278
+lenocrap,37064,85th Ave at Lenox Court Apartments,,38.95389,-76.86878
+carrmnap,37031,85th Ave at Carrollton Manor Apartments,,38.95602,-76.86828
+long85th,37007,85th Ave and Longfellow St,,38.9596,-76.8698
+lega85th,37006,85th Ave and Legation St,,38.96079,-76.86988
+westmadi,37099,Westbrook Dr and Madison St,,38.96234,-76.87023
+westogle,37100,Westbrook Dr and Oglethorpe St,,38.96425,-76.87156
+westpowh,37101,Westbrook Dr and Powhatan St,,38.96554,-76.87301
+westlamo,37098,Westbrook Dr and Lamont Dr,,38.9658,-76.88028
+lamolarc,37061,Lamont Dr and Larchwood St,,38.96788,-76.87987
+lamocarr,37059,Lamont Dr and Carrollton Pkwy,,38.96937,-76.88011
+lamoquen,37062,Lamont Dr and Quentin St,,38.97185,-76.88079
+lamodono,37060,Lamont Dr and Donoghue Dr,,38.97466,-76.88217
+lamoelem,37063,Good Luck Rd at Lamont Elementary School,,38.97497,-76.88388
+gdlknash,37053,Good Luck Rd and Nashville Rd,,38.97469,-76.8864
+gdlkian,37052,Good Luck Rd and Ian St,,38.97253,-76.89127
+aubuches,37013,Auburn Ave and Chestnut Ave,,38.97149,-76.8938
+aubu3rd,37012,Auburn Ave and 3rd St,,38.96913,-76.89481
+aubu1st,37011,Auburn Ave and 1st St,,38.96631,-76.89604
+auburive,50018,Auburn Ave and Riverdale Rd,,38.96503,-76.89663
+wildshop,37102,Riverdale Rd at Wildercroft Shopping Center,,38.96441,-76.89787
+rive67ct,37083,Riverdale Rd and 67th Ct,,38.96181,-76.90231
+rive64th,37081,Riverdale Rd and 64th Ave,,38.96123,-76.90741
+rive62nd_in,37079,Riverdale Rd and 62nd Place,,38.96076,-76.91202
+rive58th,37090,Riverdale Rd at St Jude Lutheran Church,,38.96014,-76.91567
+ewhwtayl_in,37036,East-West Hwy and Taylor Rd (Inbound),,38.96249,-76.92902
+hartshop,37019,Baltimore Avenue and Hartwick Road (Inbound),,38.97944,-76.93783
+hoff,34507,Hoff Theater,,38.98807,-76.94539
+uniofiel,27774,Union Ln and Fieldhouse Dr,,38.98869,-76.94531
+biofield,50016,BioSciences Research Building,,38.98926,-76.94211
+regestad,55021,Regents Dr and Stadium Dr,,38.99038,-76.94065
+regefarm_out,30425,Regents Dr and Farm Dr (Outbound),,38.99126,-76.94066
+regecomc_out,30321,Regents Drive at XFINITY Center (Outbound),,38.99347,-76.93993
+regepain_out,30309,Regents Dr and Paint Branch Dr (Outbound),,38.99363,-76.93748
+shutbase_out,37150,Shuttle-UM Base (Outbound),,38.99535,-76.9375
+lot4_out,36290,Paint Branch Dr at Lot 4b (Outbound),,38.9979,-76.94042
+cour300,27047,Courtyards #300,,39.00131,-76.94193
+cour400,27742,Courtyards #400,,39.00187,-76.94271
+cour500,27735,Courtyards #500,,39.00308,-76.94257
+gree,27676,Greenmeade Dr at Maryland 4-H (Inbound),,39.00268,-76.94333
+greemetz,27624,Greenmeade Dr and Metzerott Rd,,39.00107,-76.94469
+lot4i_r,27522,Paint Branch Dr at Lot 4b (Inbound),,38.99783,-76.94049
+shutbase_in,37151,Shuttle-UM Base (Inbound),,38.99536,-76.93759
+regepain,30949,Regents Dr and Paint Branch Dr (Inbound),,38.99367,-76.93773
+regecomc_in,30332,Regents Drive at XFINITY Center (Inbound),,38.99364,-76.93984
+regefarm_in,30313,Regents Dr and Farm Dr (Inbound),,38.99148,-76.94071
+metzgree,30299,Metzerott Rd and Greenmead Dr,,39.00091,-76.94447
+gree_out,37185,Greenmead Dr at Maryland 4-H (Outbound),,39.00205,-76.9435
+greemead_in,27676,Greenmead Dr at Maryland 4-H (Inbound),,39.00268,-76.94333
+lot4_in,27522,Paint Branch Dr at Lot 4b (Inbound),,38.99783,-76.94049
+campmath_m,36112,Campus Dr at Math Slip,,38.98786,-76.93861
+baltmacd,27301,Baltimore Avenue and Berwyn House Road,,38.99239,-76.93319
+baltqueb_out,27270,Baltimore Ave and Quebec St(Outbound),,38.99461,-76.93222
+balttecu,55001,Baltimore Avenue and Tecumseh Street,,38.99743,-76.93157
+rhoduniv,55000,Rhode Island Avenue and University Boulevard (Outbound),,39.00098,-76.92481
+rhodcher,27372,Rhode Island Avenue and Cherokee Street (Outbound),,39.00239,-76.92444
+rhodfox,27934,Rhode Island Avenue and Fox Street (Outbound),,39.00597,-76.9235
+rhodholl,30366,Rhode Island Avenue and Hollywood Road (Outbound),,39.0109,-76.92217
+rhodshop,30350,Rhode Island Avenue at Hollywood Shopping Center,,39.01384,-76.92138
+edgerhod,27703,Edgewood Road and Rhode Island Avenue (Outbound),,39.0161,-76.92142
+edge49th,31691,Edgewood Road and 49th Avenue (Outbound),,39.01606,-76.92436
+mazz,37065,Mazza GrandMarc,,39.01112,-76.93004
+baltberw_s,30352,Baltimore Ave and Berwyn Rd (Inbound),,38.99641,-76.93183
+baltqueb_in,27006,Baltimore Ave and Quebec St (Inbound),,38.99462,-76.93236
+varsfron,29789,Baltimore Ave at The Varsity,,38.99083,-76.93401
+painstad_r,30500,Glenn L. Martin Wind Tunnel,,38.98995,-76.93725
+varsity,29789,Baltimore Ave at The Varsity,,38.99083,-76.93401
+dent,36424,Denton Hall,,38.99191,-76.95003
+tula3424,27699,Graduate Hills at 3424 Tulane Dr,,38.98494,-76.95593
+tula3410,37152,Graduate Hills at 3410 Tulane Dr,,38.98474,-76.95728
+tula3403,27023,Graduate Hills at 3404 Tulane Dr,,38.98468,-76.95824
+camplot19,36120,Campus Dr at UMUC Lot 19,,38.98529,-76.95448
+univbapt,34894,University Methodist Church,,38.98486,-76.95243
+hillmunc,27075,Van Munching Hall (Inbound),,38.98302,-76.94821
+lds,27533,LDS Institute of Religion,,38.98223,-76.94719
+cathsc,36183,Catholic Student Center,,38.98132,-76.94523
+sccomm1_2,27505,South Campus Commons 1 & 2,,38.98233,-76.94346
+4315rwlt,37118,Graduate Gardens at 4315 Rowalt Dr,,38.97884,-76.94145
+4327rwlt,34958,Graduate Gardens at 4327 Rowalt Dr,,38.9782,-76.94003
+balthart_in,37019,Baltimore Ave and Hartwick Rd (Inbound),,38.97947,-76.93783
+shoebuil,37232,Shoemaker Building,,38.98387,-76.94219
+loty,34511,Lot Y and Chapel Dr,,38.98436,-76.94174
+avwill,27863,A.V. Williams Building,,38.99098,-76.93726
+techpain,27973,Paint Branch Dr and Technology Dr,,38.99258,-76.93727
+camb,48069,Cambridge Hall (Outbound),,38.99146,-76.94303
+cumber,55006,Cumberland Hall,,38.99235,-76.94425
+umuc,36108,UMUC - College Park Marriott,,38.98528,-76.95404
+metzgree_out,30299,Metzerott Rd and Greenmead Dr (Outbound),,39.00083,-76.944
+metz36th,30460,Metzerott Road and 36th Avenue (Outbound),,39.00144,-76.94748
+metzstan_out,30461,Metzerott Road and St. Andrew's Place (Outbound),,39.00189,-76.95013
+metzsa,30252,Metzerott Rd @ System Administration,,39.00241,-76.95317
+arch_ob,37119,Metzerott Rd at Archives II (Outbound),,39.00316,-76.95813
+metzadel,30920,Metzerott Rd and Adelphi Rd,,39.00252,-76.96572
+coolspri_out,34650,Metzerott Rd and Riggs Rd (Outbound),,39.00327,-76.97226
+metzpres,30281,Metzerott Rd at Presidential Towers,,39.00371,-76.97557
+metznham_out,30268,Metzerott Rd and New Hampshire Ave (Outbound),,39.00423,-76.98045
+nhamfox,30418,New Hampshire Ave and Fox St,,39.00804,-76.97978
+nhamadel_out,37072,New Hampshire Ave and Adelphi Road (Outbound),,39.01108,-76.97894
+nhamoak_out,30275,New Hampshire Ave and Oakview Dr (Outbound),,39.01506,-76.9778
+chateau_r,37124,Mt Pisgah Rd at Chateau Apartments,,39.01658,-76.97613
+nhamadel_in,37106,New Hampshire Ave and Adelphi Rd (Inbound),,39.01162,-76.97904
+metznham_in,30004,Metzerott Rd and New Hampshire Ave (Inbound),,39.00411,-76.98006
+metz1811,27892,Metzerott Rd at The Delano Apts,,39.00367,-76.97606
+coolspri_in,34697,Metzerott Rd and Riggs Rd (Inbound),,39.00327,-76.97287
+metz24th,30036,Metzerott Rd and 24th Ave,,39.00259,-76.96685
+metzarch,27918,Metzerott Rd at Archives II (Inbound),,39.00314,-76.95893
+metzobse,27408,Metzerott Rd @ UM Observatory,,39.00258,-76.95458
+metzstan_in,30462,Metzerott Road and St. Andrew's Place (Inbound),,39.00205,-76.95149
+metz36th_in,30015,Metzerott Road and 36th Avenue (Inbound),,39.00148,-76.94813
+metzgree_in,30247,Metzerott Rd and University Blvd (Inbound),,39.0009,-76.94479
+painrege_bus,30898,Paint Branch Dr and Regents Dr (Bus Shelter),,38.9935,-76.93739
+painstad,50001,Paint Branch Dr and Stadium Dr,,38.99029,-76.9373
+cpmetro_d,36469,College Park - UMD Metro Station,,38.97554,-76.928
+acphys,31564,River Road and Rivertech Court,,38.96996,-76.92711
+acphys_elli,31689,American Center for Physics,,38.97182,-76.93014
+rayt,34405,Raytheon,,38.96836,-76.92833
+collpark,31570,College Park Academy,,38.96829,-76.92792
+diviofit,31571,Division of IT,,38.96917,-76.92325
+msqua,34293,M-Square,,38.97076,-76.92299
+usda,31881,USDA,,38.96989,-76.92614
+rrmshel,31899,River Road at American Center for Physics,,38.9722,-76.92834
+cpmetro_a,36469,College Park - UMD Metro Station (Hidden Arrival),,38.97607,-76.9278

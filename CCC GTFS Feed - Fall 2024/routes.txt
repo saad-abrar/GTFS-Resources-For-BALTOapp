@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+4962,3554,,Banner Route,3,377ED4,FFFFFF
+6139,3554,,Cherry Route,3,D62728,FFFFFF
+4963,3554,,Green Route,3,84C74D,000000
+4964,3554,,Orange Route,3,F2800E,000000
+4965,3554,,Purple Route,3,D51BDB,FFFFFF

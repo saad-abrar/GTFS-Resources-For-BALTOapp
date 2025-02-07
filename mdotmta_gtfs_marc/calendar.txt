@@ -1,0 +1,4 @@
+service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+101,20201102,20210613,1,1,1,1,1,0,0
+102,20201102,20210613,0,0,0,0,0,1,0
+103,20201102,20210613,0,0,0,0,0,0,1

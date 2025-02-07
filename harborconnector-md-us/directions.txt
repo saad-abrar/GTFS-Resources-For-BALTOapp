@@ -1,0 +1,7 @@
+route_id,direction_id,direction
+19565,1,Southbound
+19565,0,Northbound
+19564,1,Westbound
+19564,0,Eastbound
+19563,1,Westbound
+19563,0,Eastbound
